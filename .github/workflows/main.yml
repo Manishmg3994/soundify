@@ -72,10 +72,13 @@ jobs:
         node-version: 14
 
     - name: Install dependencies
-      run: yarn
+      run: |
+        yarn
+        npm install -g react-native-cli
 
     - name: Build the app
-      run: yarn run android:build:release
+      run: react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle
+#       run: yarn run android:build:release
 
     # - name: Archive the artifacts
     #   uses: actions/upload-artifact@v2
