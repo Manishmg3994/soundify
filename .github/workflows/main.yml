@@ -77,7 +77,7 @@ jobs:
         npm install -g react-native-cli
 
     - name: Build the app
-      run: react-native run-android --no-run
+      run: react-native run-android 
 #       run: yarn run android:build:release
 
     # - name: Archive the artifacts
