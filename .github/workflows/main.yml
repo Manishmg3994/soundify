@@ -72,10 +72,12 @@ jobs:
         node-version: 14
 
     - name: Install dependencies
-      run: yarn
+      run: |
+        yarn
+        npm install -g react-native-cli
 
     - name: Build the app
-      run: react-native run-android
+      run: react-native run-android --no-run
 #       run: yarn run android:build:release
 
     # - name: Archive the artifacts
