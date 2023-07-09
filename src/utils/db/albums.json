@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Star wars: The Empire Strikes Back",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731e869a1d333210eaa2bfe670"
+  },
+  {
+    "name": "Black Panther",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e14495326481bbcc75cd2efb",
+    "artist": "Ludwig Göransson",
+    "tracks": [
+      {
+        "name": "Wakanda",
+        "artist": "Ludwig Göransson",
+        "url": "https://cdns-preview-6.dzcdn.net/stream/c-6466e1b204cd897d0efaacbd57d06bb8-3.mp3",
+        "duration": 31
+      },
+      {
+        "name": "Wakanda Origins",
+        "artist": "Ludwig Göransson"
+      },
+      { "name": "Royal Talon Fighter", "artist": "Ludwig Göransson" },
+      { "name": "Warrior Falls", "artist": "Ludwig Göransson" },
+      { "name": "The Jabari", "artist": "Ludwig Göransson" },
+      { "name": "Waterfall Fight", "artist": "Ludwig Göransson" },
+      { "name": "Ancestral Plane", "artist": "Ludwig Göransson" },
+      { "name": "Killmonger", "artist": "Ludwig Göransson" },
+      { "name": "Phambili", "artist": "Ludwig Göransson" },
+      { "name": "Casino Brawl", "artist": "Ludwig Göransson" },
+      { "name": "Busan Car Chase", "artist": "Ludwig Göransson" },
+      { "name": "Questioning Klaue", "artist": "Ludwig Göransson" },
+      { "name": "Outsider", "artist": "Ludwig Göransson" },
+      { "name": "Is This Wakanda?", "artist": "Ludwig Göransson" },
+      { "name": "Killmonger's Challenge", "artist": "Ludwig Göransson" },
+      { "name": "Killmonger v T'Challa", "artist": "Ludwig Göransson" },
+      { "name": "Loyal to the Throne", "artist": "Ludwig Göransson" },
+      { "name": "Killmonger's Dream", "artist": "Ludwig Göransson" },
+      { "name": "Burn It All", "artist": "Ludwig Göransson" },
+      { "name": "Entering Jabariland", "artist": "Ludwig Göransson" },
+      { "name": "Wake Up T'Challa", "artist": "Ludwig Göransson" },
+      { "name": "The Great Mound Battle", "artist": "Ludwig Göransson" },
+      { "name": "Glory to Bast", "artist": "Ludwig Göransson" },
+      { "name": "The Jabari, P II", "artist": "Ludwig Göransson" },
+      { "name": "A Kings Sunset", "artist": "Ludwig Göransson" },
+      { "name": "A New Day", "artist": "Ludwig Göransson" },
+      { "name": "Spaceship Bugatti", "artist": "Ludwig Göransson" },
+      { "name": "United Nations / End Title", "artist": "Ludwig Göransson" }
+    ]
+  },
+  {
+    "name": "Inception",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bb53ecc4d4e007f8c0464753"
+  },
+  {
+    "name": "Forrest Gump",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27326ee43659ded2ab2d73566e2"
+  }
+]
