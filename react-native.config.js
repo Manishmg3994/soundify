@@ -21,12 +21,12 @@ module.exports = {
     ios: {},
     android: {},
   },
-  assets: ['./assets/fonts',
-
-  './src/assets/animations',
+  assets: [
+    './src/assets/',
+    './assets/fonts',
+'./src/assets/animations',
   './src/assets/icons',
   './src/assets/tracks',
-  './src/assets/',
 
 ],
 };
