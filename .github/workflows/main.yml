@@ -75,7 +75,7 @@ jobs:
       run: yarn
 
     - name: Build the app
-      run: yarn run android:build
+      run: react-native run-android
 #       run: yarn run android:build:release
 
     # - name: Archive the artifacts
