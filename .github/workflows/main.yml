@@ -75,7 +75,8 @@ jobs:
       run: yarn
 
     - name: Build the app
-      run: yarn run android:build:release
+      run: yarn run android:build
+#       run: yarn run android:build:release
 
     # - name: Archive the artifacts
     #   uses: actions/upload-artifact@v2
