@@ -172,7 +172,7 @@ android {
         assets {
     // Set the assets destination folder.
     // This is the folder where the release APK file will store the assets.
-    sourceDirs = ['src/main/assets', 'src/main/assets/animations','src/main/assets/icons','src/main/assets/tracks']
+    sourceDirs = ['src/main/assets','src/main/assets/fonts', 'src/main/assets/animations','src/main/assets/icons','src/main/assets/tracks']
   }
     }
 
